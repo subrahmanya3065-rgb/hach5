@@ -1,0 +1,9 @@
+streamlit
+moviepy==1.0.3
+opencv-python-headless
+pydub
+numpy
+pillow
+imageio
+imageio-ffmpeg
+decorator==4.4.2
